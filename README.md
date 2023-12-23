@@ -6,8 +6,6 @@
 
 # 🔐 𝐏𝐀𝐒𝐒: 888
 
-![Uploading 1.jpeg…]()
-
 # ⚙️Features
 
 ***🧨HWID Changer INTEGRATED!***
